@@ -56,5 +56,16 @@ I am interested in AI infrastructure and MLOps, and aspire to build AI systems t
 
 ## 🤝 Open Source Contributions
 
-<!-- 기여한 오픈소스 프로젝트 링크와 기여 내용을 여기에 추가하세요. -->
+### Apache Airflow
+
+- [PR #66086](https://github.com/apache/airflow/pull/66086) — Improved Korean translations for the Airflow UI<br />
+  Added and refined missing Korean translations for the empty log-search state and the DAG UI.
+
+- [PR #67298](https://github.com/apache/airflow/pull/67298) — Fixed tenant-aware ingestion for Weaviate<br />
+  Fixed the Weaviate Provider so that data ingestion works correctly in tenant-aware environments.
+
+### vLLM
+
+- [PR #51664](https://github.com/vllm-project/vllm/pull/51664) — Fixed Helm chart resource references<br />
+  Ensured that Deployments, Services, and HPAs consistently reference release-specific resources when using custom labels and autoscaling.
     
