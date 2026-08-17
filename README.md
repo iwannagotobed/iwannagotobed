@@ -1,6 +1,6 @@
 ## Hello! 👋
 
-MLOps와 LLMOps를 중심으로, 안정적이고 확장 가능한 AI 시스템을 탐구합니다.
+I am interested in AI infrastructure and MLOps, and aspire to build AI systems that continuously evolve through operational data and feedback.
 
 ## 📚 Keep Studying
 
@@ -24,6 +24,10 @@ MLOps와 LLMOps를 중심으로, 안정적이고 확장 가능한 AI 시스템�
   <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
   <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm" />
   <img src="https://img.shields.io/badge/Argo%20CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="Argo CD" />
+</p>
+
+<strong>Monitoring</strong><br />
+<p>
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
 </p>
@@ -48,7 +52,7 @@ MLOps와 LLMOps를 중심으로, 안정적이고 확장 가능한 AI 시스템�
 
 ## 🏅 Certifications
 
-<!-- 취득한 자격증 배지를 여기에 추가하세요. -->
+<img src="assets/aws-certified-solutions-architect-associate.png" width="160" alt="AWS Certified Solutions Architect – Associate" />
 
 ## 🤝 Open Source Contributions
 
