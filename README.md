@@ -60,12 +60,12 @@ I am interested in AI infrastructure and MLOps, and aspire to build AI systems t
 - [PR #51664](https://github.com/vllm-project/vllm/pull/51664) — Fixed Helm chart resource references<br />
   Ensured that Deployments, Services, and HPAs consistently reference release-specific resources when using custom labels and autoscaling.
 
+## 🏅 Certifications
+
+<img src="assets/aws-certified-solutions-architect-associate.png" width="160" alt="AWS Certified Solutions Architect – Associate" />
+
 ## 🧑‍💻 Contact me
 
 [<img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white" alt="Velog" />](https://velog.io/@us990704/posts)
 [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />](https://www.linkedin.com/in/%EC%9A%B1%EC%84%B1-%EC%9D%B4-260261344/)
-
-## 🏅 Certifications
-
-<img src="assets/aws-certified-solutions-architect-associate.png" width="160" alt="AWS Certified Solutions Architect – Associate" />
     
