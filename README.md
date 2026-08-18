@@ -71,4 +71,5 @@ I am interested in AI infrastructure and MLOps, and aspire to build AI systems t
 
 [<img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white" alt="Velog" />](https://velog.io/@us990704/posts)
 [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />](https://www.linkedin.com/in/%EC%9A%B1%EC%84%B1-%EC%9D%B4-260261344/)
+[<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />](mailto:us990704@yonsei.ac.kr)
     
