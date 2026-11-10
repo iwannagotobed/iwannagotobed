@@ -64,6 +64,7 @@ I am interested in AI infrastructure and MLOps, and aspire to build AI systems t
 <p>
   <img src="assets/aws-certified-solutions-architect-associate.png" width="160" alt="AWS Certified Solutions Architect – Associate" />
   <img src="assets/cka-certified-kubernetes-administrator.png" width="160" alt="Certified Kubernetes Administrator" />
+  <img src="assets/nvidia-certified-associate-ai-infrastructure-and-operations.png" width="160" alt="NVIDIA Certified Associate: AI Infrastructure and Operations" />
 </p>
 
 ## 🧑‍💻 Contact me
